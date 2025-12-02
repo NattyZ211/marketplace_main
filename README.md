@@ -1,30 +1,30 @@
 "# marketplace_main" 
 # Submódulo:
-Construye aplicaciones web
+***Construye aplicaciones web***
 
 ## Práctica Evaluatoria Parcial 3
 
-Nakashimada Martínez del Cañizo Anna
-Prieto Zaragoza Natalia Abigail
-Martinez Medina Evan
-Durán Covarrubias Liliana
-Avila Silva Maximous Alexander
-Sanchez Gonzalez Emily
+* Nakashimada Martínez del Cañizo Anna
+* Prieto Zaragoza Natalia Abigail
+* Martinez Medina Evan
+* Durán Covarrubias Liliana
+* Avila Silva Maximous Alexander
+* Sanchez Gonzalez Emily
 
-Grupo 5BMPG
+**Grupo 5BMPG**
 
 
 
 # Índice:
 
-1. Introducción____________________3
-2. Explicación de Comandos__________4
-3. Diagrama______________________9
-4. Explicación de Archivos__________11
-5. Actualización del proyecto _______ 18
-6. Ejecución Proyecto______________33
-7. Actualización__________________35
-8. Conclusión____________________42
+* 1. Introducción____________________3
+* 2. Explicación de Comandos__________4
+* 3. Diagrama______________________9
+* 4. Explicación de Archivos__________11
+* 5. Actualización del proyecto _______ 18
+* 6. Ejecución Proyecto______________33
+* 7. Actualización__________________35
+* 8. Conclusión____________________42
 
    # Introducción:
 
