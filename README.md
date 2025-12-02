@@ -1,8 +1,8 @@
 "# marketplace_main" 
-Submódulo:
+#Submódulo:
 Construye aplicaciones web
 
-Práctica Evaluatoria Parcial 3
+##Práctica Evaluatoria Parcial 3
 
 Nakashimada Martínez del Cañizo Anna
 Prieto Zaragoza Natalia Abigail
@@ -15,7 +15,7 @@ Grupo 5BMPG
 
 
 
-Índice:
+#Índice:
 
 1. Introducción____________________3
 2. Explicación de Comandos__________4
@@ -26,7 +26,7 @@ Grupo 5BMPG
 7. Actualización__________________35
 8. Conclusión____________________42
 
-   Introducción:
+   #Introducción:
 
 ¿Por qué utilizar Django para desarrollar
 aplicaciones web?
@@ -44,7 +44,7 @@ potencia de python. Con el programa pillow se crean
 scripts para tener una mejor visualización de las imágenes
 y además
 
-Explicación de Comandos:
+#Explicación de Comandos:
 
 cd Documents : Ese comando se usa para decirle al programa donde
 queremos la futura carpeta que vamos a crear.
@@ -111,7 +111,7 @@ code . : Esto va a abrir una ventana del programa Visual Studio Code
 donde van a salir todos los códigos, y se puede modificar desde ahí.
 
 
-Diagrama:
+#Diagrama:
 La arquitectura MVT es el patrón de diseño que utiliza
 django. Django lo utiliza para separar la lógica de la
 aplicación, la gestión de datos y la presentación visual.
@@ -131,7 +131,7 @@ prepara la información para el Template.
 4. View pasa los datos al template
 5. Django envía la respuesta al navegador del usuario.
 
-Explicación de los archivos:
+#Explicación de los archivos:
 Settings.py, urls.py, models.py, views.py
 
 Settings.py: El archivo settings.py es básicamente donde se guarda toda
@@ -211,7 +211,7 @@ va a ver nuestra página web, estos archivos sirven para el diseño y la
 estructura de la página, como por ejemplo los archivos: base.html,
 home.html, etc.
 
-Actualización del proyecto:
+#Actualización del proyecto:
 
 Forms.py (LoginForm, SignupForm, NewItemForm)
 LoginForm: Es quien permite a los usuarios ingresar sus credenciales o
@@ -264,14 +264,14 @@ Form: Sirve para poder ingresar iniciando sesión por medio de la
 solicitudes definiendo de cuando se usan las plantillas de signup.html y
 login.html.
 
-Ejecución del proyecto:
+#Ejecución del proyecto:
 
 
-Actualización:
+#Actualización:
 
 
 
-#Conclusión:#
+#Conclusión:
 
 Durante este trabajo aplicamos los aprendizajes que nos proporcionó el
 profesor en clase, también como realizar las prácticas. Usamos programas
