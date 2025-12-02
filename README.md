@@ -271,7 +271,7 @@ Actualización:
 
 
 
-Conclusión:
+#Conclusión:#
 
 Durante este trabajo aplicamos los aprendizajes que nos proporcionó el
 profesor en clase, también como realizar las prácticas. Usamos programas
